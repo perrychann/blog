@@ -4,7 +4,5 @@ vs code extension
 
 README
 
-{% embed url="https://drawio.svg" %}
-
-
+{% embed url="https://drawio.svg" caption="" %}
 
